@@ -3209,7 +3209,7 @@ ACTIVE_그룹 상태(RoomStatus="ACTIVE", endTime=createdAt+studyHours)에서 �
 ---
 ---
 
-# 📘 Glossary
+# 8. Glossary
 
 | 용어 | 설명 |
 |------|------|
